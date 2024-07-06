@@ -1,4 +1,12 @@
-## Hi there 👋
+### About me: 
+
+Ex-attorney, enjoying time in the world of programming.  
+
+I am always seeking new challenges and opportunities to grow and improve as a developer. My goal is to build user-friendly, responsive, and scalable web applications that help people and businesses meet their needs. I am enthusiastic about increasing my skills as a web developer and eager to contribute to innovative projects.
+
+🔭 I’m currently working on:
+- [The Odin Project](https://www.theodinproject.com/)
+- [Free Code Camp](https://www.freecodecamp.org/)
 
 <!--
 **mrt39/mrt39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
