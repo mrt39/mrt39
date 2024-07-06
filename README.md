@@ -8,6 +8,9 @@ I am always seeking new challenges and opportunities to grow and improve as a de
 - 👀 Other than programming, I’m interested in video games, fitness and learning new things
 - 🔭 You can check out my portfolio&contact me [here](https://www.mrtktar.dev/)
 
+---
+
+
 ### Skills:
 
 <p align="left">
@@ -25,6 +28,12 @@ I am always seeking new challenges and opportunities to grow and improve as a de
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrt39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 
