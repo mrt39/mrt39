@@ -2,11 +2,7 @@
 
 Ex-attorney, enjoying time in the world of programming.  
 
-I am always seeking new challenges and opportunities to grow and improve as a developer. My goal is to build user-friendly, responsive, and scalable web applications that help people and businesses meet their needs. I am enthusiastic about increasing my skills as a web developer and eager to contribute to innovative projects.
-
-- 👨‍💻 I’m currently working on: [The Odin Project](https://www.theodinproject.com/)
-- 👀 Other than programming, I’m interested in video games, fitness and learning new things
-- 🔭 You can check out my portfolio&contact me [here](https://www.mrtktar.dev/)
+I am always seeking new challenges and opportunities to grow and improve as a developer. My goal is to build user-friendly, responsive, and scalable web applications that help people and businesses meet their needs. I am enthusiastic about increasing my skills as a software engineer and eager to contribute to innovative projects.
 
 ---
 
